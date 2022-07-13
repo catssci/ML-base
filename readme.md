@@ -6,8 +6,8 @@
   1. Decision Tree
   2. SVM
   3. Isolation forest
-  4. Xgboosting
-  5. Knn
+  4. Knn
+  5. Xgboosting
 - Unsupervised
   1. k-means clustering
 
